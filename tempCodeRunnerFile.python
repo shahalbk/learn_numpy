@@ -1,0 +1,6 @@
+x = 100
+def he():
+    global x
+    x =200
+he()
+print(x)
